@@ -21,4 +21,4 @@
 
 
 ## Badges:
-![Badge_1](./assets/a111.gif) ![Badge 2](./assets/s5.png)
+![Badge_1](./assets/a111.gif) ![Badge 2](./assets/s5.png) ![Badge_3](./assets/archlinux.gif) ![Badge_4](./assets/cfs1.gif) ![Badge_5](./assets/button3sea.gif) ![Badge_6](./assets/caramelldansen.gif) ![Badge_7](./assets/cogs.gif) ![Badge_8](./assets/bestvw.gif) ![Badge_9](./assets/)
