@@ -14,6 +14,9 @@
 * Modular Discord bot with vision support, custom status cards, AI, and more! [link to repository](https://github.com/hoshimiMiyabi-dev/Chatty.ai/)
 
 ## My discord bot stats:
+
+<img src="https://cdn.discordapp.com/avatars/1425885481710915625/d4551dd6fc9708e76083383c0752873f.png?size=1024" width="100" height="100" alt="Ellen Joe" style="border-radius: 50%;" /> 
+
 ![Bot Status](https://img.shields.io/badge/dynamic/json?url=https://resistant-cosponsor-ensnare.ngrok-free.dev/api/status&label=Ellen%20Joe&query=$.presence.status&color=d0021b) ![Guilds](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fresistant-cosponsor-ensnare.ngrok-free.dev%2Fapi%2Fstatus&label=Servers&query=$.telemetry.guild_count&color=7289da) ![Ping](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fresistant-cosponsor-ensnare.ngrok-free.dev%2Fapi%2Fstatus&label=Ping&query=$.telemetry.latency_ms&suffix=ms&color=43b581) ![Vibing To](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fresistant-cosponsor-ensnare.ngrok-free.dev%2Fapi%2Fstatus&label=Vibing&query=$.presence.activities[0].name&color=7289da) ![Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fresistant-cosponsor-ensnare.ngrok-free.dev%2Fapi%2Fstatus&label=Users&query=$.telemetry.cached_users&color=5865F2) ![Requests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fresistant-cosponsor-ensnare.ngrok-free.dev%2Fapi%2Fstatus&label=Requests&query=$.api_stats.total_requests&color=43b581)
 
 
