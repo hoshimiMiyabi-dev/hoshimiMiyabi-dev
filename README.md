@@ -1,6 +1,6 @@
 ## Hey, I'm hoshimiMiyabi-dev also known as Berry Astra.
 
-![animation](./animation.webp)
+![animation](./assets/animation.webp)
 
 
 * from Pakistan making projects like algorithms, discord bots, and more in python
@@ -21,4 +21,4 @@
 
 
 ## Badges:
-![Badge_1](./a111.gif) ![Badge 2](./s5.png)
+![Badge_1](./assets/a111.gif) ![Badge 2](./assets/s5.png)
