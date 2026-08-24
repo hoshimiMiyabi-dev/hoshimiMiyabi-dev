@@ -9,6 +9,10 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-## Personal favorite project:
+## favorite project:
 **Chatty.ai** 
 * Modular Discord bot with vision support, custom status cards, AI, and more! [link to repository](https://github.com/hoshimiMiyabi-dev/Chatty.ai/)
+
+
+![Badge_1](./a111.gif) ![Badge 2](./s5.png)
+
